@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm @shrikantpardhi
 - 👀 I'm interested in Web development and building cool things.
 - 🌱 I'm currently learning react and Spring microservice ecosystem.
-- 🔍 I'm looking to collaborate on building Java apps.
+- 🔍 I'm looking to collaborate on building web apps.
 - 📍 How to reach me shripardhi92@gmail.com 
